@@ -28,7 +28,6 @@ The robot is capable of:
 | Component | Quantity | Notes |
 |----------|----------|-------|
 | Arduino Uno / Nano | 1 | Main controller |
-| QTR-5RC or QTR-5A Sensor Array | 1 | Line sensing |
 | L298N Motor Driver | 1 | Controls left/right motors |
 | DC Motors | 2 | Differential drive |
 | Servo Motor | 1 | Gate mechanism |
