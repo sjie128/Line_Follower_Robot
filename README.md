@@ -3,7 +3,7 @@
 
 | Mechanical | Electronic | Programming |
 |----------|----------|-------|
-| Chee Wei Ian | Goh Wei Qin | Chang Yong Qi |
+| Chee Wei Ian | Goh Yong Qin | Chang Yong Qi |
 | free rider | Hong Rui Leong | Janisa Goh Shi Jie |
 
 # 🚗 Line Following Robot with QTR Sensors, Servo Gate & Checkpoints  
